@@ -1,0 +1,84 @@
+@import url(https://fonts.googleapis.com/css?family=Spinnaker:400,700,400italic,700italic);
+
+
+.barra{background:rgba(255,255,255,.4);height:40px;position:fixed;top:0;width:100%;z-index:10999}
+.barra .titolo,.barra .hashtag{font-style:italic;float:left;padding:5px;line-height:30px;font-family:Spinnaker,sans-serif;font-weight:700;font-size:14px; color:white;}
+.barra .logo{
+    background-repeat:no-repeat;
+    overflow-y: visible;
+    background-size: contain;
+    border-radius: 0.5em;
+    height:80px;
+}
+
+.logo-sbw{
+    background:url("../imgs/from-odp/sbw-logo.png");
+    width:201px;
+    float:right;
+    margin-top:0px;
+    margin-right:-14px;
+}
+.logo-befair{
+    background:url("../imgs/befair-logo.png");
+    background-color:white;
+    width:128px;
+    float:left;
+    margin-left:2px;
+    position:fixed;
+    bottom:0px;
+}
+.barra.bottom{top:auto;bottom:0}
+/* .barra.bottom .titolo {margin-left:135px} */
+.barra .hashtag{float:right}i{color:#0EA11A}
+.background{background:rgba(78,58,76,.6);padding:5px!important;position:relative;color:#171616}
+
+.reveal a{line-height:1.3em}
+/*.reveal h1 {font-family: 'Spinnaker';}*/
+
+.reveal .controls {
+    bottom: 35px;
+}
+
+img.x80 {
+    min-width: 50%;
+    min-height: 200px;
+    max-width: 75%;
+    max-height: 500px;
+}
+
+.force-bottom{bottom:20px!important;top:auto!important}
+.force-top{top:0!important}
+.white-black-shadow{color:#fff!important;text-shadow:-1px -1px 1px #111,2px 2px 1px #000!important}
+.black-shadow{text-shadow:-1px -1px 1px #111,2px 2px 1px #000!important}
+.slide-background.force-bottom{bottom:auto!important}
+.slide-background.fullcover{background-size:contain}
+
+.background-opaque {
+    background-color: green;
+    opacity: 0.8;
+    border-radius: 0.5em;
+    padding: 0 2em !important;
+}
+
+i {
+    color: lightgreen;
+    font-size: 50px;
+}
+
+
+.column-left {
+  left:-8.33%;
+  text-align: left;
+  float: left;
+  width:50%;
+  z-index:-10;
+}
+
+.column-right {
+  left:31.25%;
+  top: 75px;
+  float: right;
+  text-align: right;
+  z-index:-10;
+  width:50%;
+}
