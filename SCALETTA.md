@@ -3,8 +3,9 @@
 * MOTIVAZIONE
     - (Amira) Bullismo: definizione di bullismo
     - (Jamila) NaoChallenge2019: competizione di robotica educativa nazionale
-    - (Marta) Incontro con avvocato e S. Stefano
-    - (Amira + Jamila + Marta) Bullismo + NAOchallenge = LifeIsNAO
+    - (Amira + Jamila + Marta) coretto: "Bullismo + NAOchallenge = LifeIsNAO"
+* PERCORSO
+    - (Marta) Incontro con avvocato e rete con il S. Stefano
 * EFFICACIA E INNOVAZIONE:
     - (Zara) Efficacia -> Timidezza + Esperti
     - (Bravi) Innovazione -> NAO + Telegram
