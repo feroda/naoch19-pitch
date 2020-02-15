@@ -13,3 +13,5 @@
     - (Rajandeep) I grafici sono elaborati a partire dal cardiofrequenzimetro
 * TECNICISMI
     - (Valerio) Slide con Raspberry contatta NAO
+* FINALE
+    - (Tutti insieme con la foto di gruppo dietro) Life Is NAO!
