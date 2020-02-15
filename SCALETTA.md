@@ -1,4 +1,10 @@
-# Cose da fare per la consegna di lunedi
+# Presentazione Pitch di 3 minuti
+
+Preparare frasi da 20 secondi ciascuno, in un crescendo di emozioni.
+
+Il tempo totale a disposizione è di 3 minuti, quindi evitare dettagli inutili.
+Quando metteremo insieme il tutto forse sarà necessario tagliare qualche intervento,
+vedremo quelli venuti meglio.
 
 * MOTIVAZIONE
     - (Amira) Bullismo: definizione di bullismo
